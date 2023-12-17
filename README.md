@@ -47,6 +47,9 @@ Total Runs, Total Innings Batted, Total Innings Dismissed, Batting Avg, Total ba
 
 ![Specialist fast bowlers](https://github.com/Gunjan8/ICC-Men-s-T20-Cricket-World-Cup-2022-Analysis/blob/main/Dashboards/Dashboard%20-specialist%20fast%20bowlers.png)
 
+* **Middle Order**
+
+ ![middle order](https://github.com/Gunjan8/ICC-Men-s-T20-Cricket-World-Cup-2022-Analysis/blob/main/Dashboards/Dashboard-Middle%20Order.png)
 
 
   
