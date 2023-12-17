@@ -21,6 +21,10 @@ In this project we need to created Tableau Dashboards which helps us to review a
 * Fast Bowlers
 
    ![Fast bowlers](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Fastbowlers.png)
+
+## Data Cleaning
+Did data cleaning using pandas.
+To see the code click here [cricket_data_process](https://github.com/Gunjan8/ICC-Men-s-T20-Cricket-World-Cup-2022-Analysis/blob/main/cricket_data_process.ipynb)
   
 
 
