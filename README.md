@@ -25,6 +25,13 @@ In this project we need to created Tableau Dashboards which helps us to review a
 ## Data Cleaning
 Did data cleaning using pandas.
 To see the code click here [cricket_data_process](https://github.com/Gunjan8/ICC-Men-s-T20-Cricket-World-Cup-2022-Analysis/blob/main/cricket_data_process.ipynb)
+
+## Data modelling
+Connected all the datasets with based on some defined primary keys such as team and match ids. Also, created many measures, calculated columns and parameters for data analysis.
+
+## Data Analysis Expression
+Different measures used in visualization are:
+
   
 
 
