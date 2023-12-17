@@ -30,7 +30,14 @@ To see the code click here [cricket_data_process](https://github.com/Gunjan8/ICC
 Connected all the datasets with based on some defined primary keys such as team and match ids. Also, created many measures, calculated columns and parameters for data analysis.
 
 ## Data Analysis Expression
-Different measures used in visualization are:
+Different measures used in visualization are:-
+Total Runs, Total Innings Batted, Total Innings Dismissed, Batting Avg, Total balls faced, Strike rate, Batting Possition, Average balls faced, wickets, Balls Bowled, Runs Conceded, Economy, Bowling Strike Rate, Bowling Average, Total Innings Bowled, Dot Ball %
+
+## Reports(Dashboard)
+* 
+
+
+
 
   
 
