@@ -6,4 +6,5 @@ In this project we need to created Tableau Dashboards which helps us to review a
 ## Requirements:-
 * The team should be able to score atleast 180 runs on an average.
 * They should be able to defend 150 runs on an average.
+* Openers  ![Opener](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t201.png)
 
