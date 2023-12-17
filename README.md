@@ -10,13 +10,17 @@ In this project we need to created Tableau Dashboards which helps us to review a
 
    ![Opener](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t201.png)
 * Middle Order
-     ![Middle Order](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Screenshot%202023-04-08%20172307.png)
+
+   ![Middle Order](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Screenshot%202023-04-08%20172307.png)
 * Finishers
-     ![Finishers](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t202.png)
+
+   ![Finishers](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t202.png)
 * All Rounders
-     ![All rounders](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t203.png)
+
+   ![All rounders](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t203.png)
 * Fast Bowlers
-     ![Fast bowlers](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Fastbowlers.png)
+
+   ![Fast bowlers](https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Fastbowlers.png)
   
 
 
