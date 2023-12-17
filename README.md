@@ -34,7 +34,7 @@ Different measures used in visualization are:-
 Total Runs, Total Innings Batted, Total Innings Dismissed, Batting Avg, Total balls faced, Strike rate, Batting Possition, Average balls faced, wickets, Balls Bowled, Runs Conceded, Economy, Bowling Strike Rate, Bowling Average, Total Innings Bowled, Dot Ball %
 
 ## Reports(Dashboard)
-* **All rounder
+* *All rounder
 
   ![all rounder](https://github.com/Gunjan8/ICC-Men-s-T20-Cricket-World-Cup-2022-Analysis/blob/main/Dashboards/Dashboard%20-All%20rounder.png)
 
