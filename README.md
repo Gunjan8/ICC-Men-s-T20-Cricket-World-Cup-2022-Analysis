@@ -38,6 +38,10 @@ Total Runs, Total Innings Batted, Total Innings Dismissed, Batting Avg, Total ba
 
   ![all rounder](https://github.com/Gunjan8/ICC-Men-s-T20-Cricket-World-Cup-2022-Analysis/blob/main/Dashboards/Dashboard%20-All%20rounder.png)
 
+* **Finishers**
+
+  ![finishers](https://github.com/Gunjan8/ICC-Men-s-T20-Cricket-World-Cup-2022-Analysis/blob/main/Dashboards/Dashboard%20-Finishers.png)
+
 
 
 
